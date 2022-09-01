@@ -1,0 +1,29 @@
+_id: req_ac942b3b22674cc39fa74ef1d64aa0c5
+type: Request
+parentId: wrk_b8382669190847b49e0d5f7211e09a10
+modified: 1661994602725
+created: 1661823658588
+url: http://localhost:3000/tasks/5
+name: atualizar
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"description" : "aguacate"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a5c0861e254844bb8fec145913a741f5
+authentication: {}
+metaSortKey: -1661823658588
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

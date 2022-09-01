@@ -1,0 +1,30 @@
+_id: req_26e7ac5d08ef4d55a5edbb1455802283
+type: Request
+parentId: wrk_b8382669190847b49e0d5f7211e09a10
+modified: 1661994692421
+created: 1661743846049
+url: http://localhost:3000/tasks
+name: crear
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"description" : "Perá",
+    	"done" : true	
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a0e1590b7f20402fba2cd24b6c13f4f8
+authentication: {}
+metaSortKey: -1661743846049
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

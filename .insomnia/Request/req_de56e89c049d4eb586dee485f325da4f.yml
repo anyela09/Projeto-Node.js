@@ -1,0 +1,26 @@
+_id: req_de56e89c049d4eb586dee485f325da4f
+type: Request
+parentId: wrk_b8382669190847b49e0d5f7211e09a10
+modified: 1661736677313
+created: 1661691384899
+url: http://localhost:3000/tasks
+name: Listar
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_15bed9e5468a4477b51a737bda180bfa
+authentication: {}
+metaSortKey: -1661691384899
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
